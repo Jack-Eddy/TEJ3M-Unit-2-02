@@ -1,7 +1,7 @@
 /* 
  This program turns the LED on the arduino on and off, increasing the time the light stays on each cycle
  Created by: Jack Eddy
- Created on: Febuary 2025
+ Created on: February 2025
 */
 
 // variables
